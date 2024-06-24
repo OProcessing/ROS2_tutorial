@@ -43,7 +43,10 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_robot_gazebo" TYPE DIRECTORY FILES "/home/han/Desktop/Han_ws/09.ROS/my_mobile/src/my_robot_gazebo/launch")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_robot_gazebo" TYPE DIRECTORY FILES
+    "/home/han/Desktop/Han_ws/09.ROS/my_mobile/src/my_robot_gazebo/launch"
+    "/home/han/Desktop/Han_ws/09.ROS/my_mobile/src/my_robot_gazebo/config"
+    )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)

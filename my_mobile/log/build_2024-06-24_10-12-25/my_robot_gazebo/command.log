@@ -1,0 +1,4 @@
+Invoking command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo': /usr/bin/cmake --build /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo -- -j12 -l12
+Invoked command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo' returned '0': /usr/bin/cmake --build /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo -- -j12 -l12
+Invoking command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo': /usr/bin/cmake --install /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo
+Invoked command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo' returned '0': /usr/bin/cmake --install /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo

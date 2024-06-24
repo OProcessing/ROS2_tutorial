@@ -1,5 +1,9 @@
 /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description/share/my_robot_description/rviz/my_mobile.rviz
+/home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description/share/my_robot_description/urdf/gazebo_control.xacro
 /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description/share/my_robot_description/urdf/robot_core.xacro
+/home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description/share/my_robot_description/urdf/ros2_control.xacro
+/home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description/share/my_robot_description/urdf/robot.urdf.xacro
+/home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description/share/my_robot_description/urdf/robot_gazebo.xacro
 /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description/share/my_robot_description/launch/display.launch.xml
 /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description/share/my_robot_description/launch/upload.launch.xml
 /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description/share/my_robot_description/meshes/collision/base_link.stl
