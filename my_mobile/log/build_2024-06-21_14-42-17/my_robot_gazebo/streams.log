@@ -1,0 +1,44 @@
+[0.014s] Invoking command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/han/Desktop/Han_ws/09.ROS/my_mobile/src/my_robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo
+[0.064s] -- The C compiler identification is GNU 11.4.0
+[0.118s] -- The CXX compiler identification is GNU 11.4.0
+[0.125s] -- Detecting C compiler ABI info
+[0.187s] -- Detecting C compiler ABI info - done
+[0.196s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.196s] -- Detecting C compile features
+[0.197s] -- Detecting C compile features - done
+[0.201s] -- Detecting CXX compiler ABI info
+[0.274s] -- Detecting CXX compiler ABI info - done
+[0.283s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.283s] -- Detecting CXX compile features
+[0.283s] -- Detecting CXX compile features - done
+[0.286s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.434s] -- Found Python3: /home/han/venv/myvenv/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.500s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.580s] -- Added test 'lint_cmake' to check CMake code style
+[0.581s] -- Added test 'xmllint' to check XML markup files
+[0.583s] -- Configuring done
+[0.586s] -- Generating done
+[0.587s] -- Build files have been written to: /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo
+[0.591s] Invoked command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/han/Desktop/Han_ws/09.ROS/my_mobile/src/my_robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo
+[0.592s] Invoking command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo -- -j12 -l12
+[0.625s] Invoked command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo -- -j12 -l12
+[0.643s] Invoking command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo
+[0.650s] -- Install configuration: ""
+[0.650s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/launch
+[0.650s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/launch/launch_sim.launch.xml
+[0.650s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/ament_index/resource_index/package_run_dependencies/my_robot_gazebo
+[0.650s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/ament_index/resource_index/parent_prefix_path/my_robot_gazebo
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/environment/ament_prefix_path.sh
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/environment/ament_prefix_path.dsv
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/environment/path.sh
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/environment/path.dsv
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/local_setup.bash
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/local_setup.sh
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/local_setup.zsh
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/local_setup.dsv
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/package.dsv
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/ament_index/resource_index/packages/my_robot_gazebo
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/cmake/my_robot_gazeboConfig.cmake
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/cmake/my_robot_gazeboConfig-version.cmake
+[0.651s] -- Installing: /home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/package.xml
+[0.653s] Invoked command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_gazebo

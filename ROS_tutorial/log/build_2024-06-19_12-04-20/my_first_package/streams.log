@@ -1,0 +1,75 @@
+[0.836s] Invoking command in '/home/han/Desktop/Han_ws/09.ROS/src/my_first_package': PYTHONPATH=/home/han/Desktop/Han_ws/09.ROS/build/my_first_package/prefix_override:/home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build install --record /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/install.log --single-version-externally-managed install_data
+[1.112s] running egg_info
+[1.113s] creating ../../build/my_first_package/my_first_package.egg-info
+[1.114s] writing ../../build/my_first_package/my_first_package.egg-info/PKG-INFO
+[1.114s] writing dependency_links to ../../build/my_first_package/my_first_package.egg-info/dependency_links.txt
+[1.114s] writing entry points to ../../build/my_first_package/my_first_package.egg-info/entry_points.txt
+[1.115s] writing requirements to ../../build/my_first_package/my_first_package.egg-info/requires.txt
+[1.115s] writing top-level names to ../../build/my_first_package/my_first_package.egg-info/top_level.txt
+[1.115s] writing manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[1.120s] reading manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[1.121s] writing manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[1.121s] running build
+[1.121s] running build_py
+[1.121s] creating /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build
+[1.121s] creating /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib
+[1.122s] creating /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.122s] copying my_first_package/__init__.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.122s] copying my_first_package/my_first_node.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.122s] copying my_first_package/my_multi_thread.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.123s] copying my_first_package/oneday_pen.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.123s] copying my_first_package/oneday_set_flag.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.123s] copying my_first_package/oneday_subscriber.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.123s] copying my_first_package/my_subscriber.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.123s] copying my_first_package/turtle_cmd_and_pose.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.123s] copying my_first_package/dist_turtle_action_server.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.123s] copying my_first_package/my_service_server.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.124s] copying my_first_package/my_publisher.py -> /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package
+[1.124s] running install
+[1.125s] running install_lib
+[1.126s] creating /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.126s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/__init__.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.126s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/my_first_node.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.126s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/my_multi_thread.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.126s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/oneday_pen.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.126s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/oneday_set_flag.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.127s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/oneday_subscriber.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.127s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/my_subscriber.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.127s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/turtle_cmd_and_pose.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.127s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/dist_turtle_action_server.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.127s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/my_service_server.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.127s] copying /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build/lib/my_first_package/my_publisher.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[1.127s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/__init__.py to __init__.cpython-310.pyc
+[1.127s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/my_first_node.py to my_first_node.cpython-310.pyc
+[1.128s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/my_multi_thread.py to my_multi_thread.cpython-310.pyc
+[1.128s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/oneday_pen.py to oneday_pen.cpython-310.pyc
+[1.129s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/oneday_set_flag.py to oneday_set_flag.cpython-310.pyc
+[1.129s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/oneday_subscriber.py to oneday_subscriber.cpython-310.pyc
+[1.129s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/my_subscriber.py to my_subscriber.cpython-310.pyc
+[1.129s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/turtle_cmd_and_pose.py to turtle_cmd_and_pose.cpython-310.pyc
+[1.130s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/dist_turtle_action_server.py to dist_turtle_action_server.cpython-310.pyc
+[1.131s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/my_service_server.py to my_service_server.cpython-310.pyc
+[1.131s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package/my_publisher.py to my_publisher.cpython-310.pyc
+[1.131s] running install_data
+[1.132s] creating /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/share/ament_index
+[1.132s] creating /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/share/ament_index/resource_index
+[1.132s] creating /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/share/ament_index/resource_index/packages
+[1.132s] copying resource/my_first_package -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/share/ament_index/resource_index/packages
+[1.132s] copying package.xml -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/share/my_first_package
+[1.132s] creating /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/share/my_first_package/launch
+[1.132s] copying launch/turtlesim_and_teleop.launch.py -> /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/share/my_first_package/launch
+[1.132s] running install_egg_info
+[1.137s] Copying ../../build/my_first_package/my_first_package.egg-info to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages/my_first_package-0.0.0-py3.10.egg-info
+[1.138s] running install_scripts
+[1.168s] Installing dist_turtle_action_server script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.168s] Installing my_first_node script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.168s] Installing my_multi_thread script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.168s] Installing my_publisher script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.168s] Installing my_service_server script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.169s] Installing my_subscriber script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.169s] Installing oneday_pen script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.169s] Installing oneday_set_flag script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.169s] Installing oneday_subscriber script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.169s] Installing turtle_cmd_and_pose script to /home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/my_first_package
+[1.169s] writing list of installed files to '/home/han/Desktop/Han_ws/09.ROS/build/my_first_package/install.log'
+[1.226s] Invoked command in '/home/han/Desktop/Han_ws/09.ROS/src/my_first_package' returned '0': PYTHONPATH=/home/han/Desktop/Han_ws/09.ROS/build/my_first_package/prefix_override:/home/han/Desktop/Han_ws/09.ROS/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/build install --record /home/han/Desktop/Han_ws/09.ROS/build/my_first_package/install.log --single-version-externally-managed install_data

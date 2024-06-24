@@ -1,0 +1,25 @@
+[0.790s] Invoking command in '/home/han/Desktop/Han_ws/09.ROS/CV/src/opencv_tutorials': PYTHONPATH=/home/han/Desktop/Han_ws/09.ROS/CV/build/opencv_tutorials/prefix_override:/home/han/Desktop/Han_ws/09.ROS/CV/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/han/Desktop/Han_ws/09.ROS/CV/build/opencv_tutorials/build install --record /home/han/Desktop/Han_ws/09.ROS/CV/build/opencv_tutorials/install.log --single-version-externally-managed install_data
+[1.083s] running egg_info
+[1.083s] writing ../../build/opencv_tutorials/opencv_tutorials.egg-info/PKG-INFO
+[1.083s] writing dependency_links to ../../build/opencv_tutorials/opencv_tutorials.egg-info/dependency_links.txt
+[1.084s] writing entry points to ../../build/opencv_tutorials/opencv_tutorials.egg-info/entry_points.txt
+[1.084s] writing requirements to ../../build/opencv_tutorials/opencv_tutorials.egg-info/requires.txt
+[1.084s] writing top-level names to ../../build/opencv_tutorials/opencv_tutorials.egg-info/top_level.txt
+[1.085s] reading manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[1.086s] writing manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[1.086s] running build
+[1.086s] running build_py
+[1.086s] copying opencv_tutorials/canny_edge.py -> /home/han/Desktop/Han_ws/09.ROS/CV/build/opencv_tutorials/build/lib/opencv_tutorials
+[1.086s] running install
+[1.087s] running install_lib
+[1.087s] copying /home/han/Desktop/Han_ws/09.ROS/CV/build/opencv_tutorials/build/lib/opencv_tutorials/canny_edge.py -> /home/han/Desktop/Han_ws/09.ROS/CV/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials
+[1.088s] byte-compiling /home/han/Desktop/Han_ws/09.ROS/CV/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials/canny_edge.py to canny_edge.cpython-310.pyc
+[1.088s] running install_data
+[1.088s] running install_egg_info
+[1.090s] removing '/home/han/Desktop/Han_ws/09.ROS/CV/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info' (and everything under it)
+[1.091s] Copying ../../build/opencv_tutorials/opencv_tutorials.egg-info to /home/han/Desktop/Han_ws/09.ROS/CV/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info
+[1.092s] running install_scripts
+[1.117s] Installing canny_edge script to /home/han/Desktop/Han_ws/09.ROS/CV/install/opencv_tutorials/lib/opencv_tutorials
+[1.117s] Installing img_publisher script to /home/han/Desktop/Han_ws/09.ROS/CV/install/opencv_tutorials/lib/opencv_tutorials
+[1.117s] writing list of installed files to '/home/han/Desktop/Han_ws/09.ROS/CV/build/opencv_tutorials/install.log'
+[1.147s] Invoked command in '/home/han/Desktop/Han_ws/09.ROS/CV/src/opencv_tutorials' returned '0': PYTHONPATH=/home/han/Desktop/Han_ws/09.ROS/CV/build/opencv_tutorials/prefix_override:/home/han/Desktop/Han_ws/09.ROS/CV/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/han/Desktop/Han_ws/09.ROS/CV/build/opencv_tutorials/build install --record /home/han/Desktop/Han_ws/09.ROS/CV/build/opencv_tutorials/install.log --single-version-externally-managed install_data

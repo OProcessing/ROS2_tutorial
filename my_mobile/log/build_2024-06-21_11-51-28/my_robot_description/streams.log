@@ -1,0 +1,22 @@
+[0.012s] Invoking command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/han/Desktop/Han_ws/09.ROS/ROS_tutorial/install/my_first_package:/opt/ros/humble /usr/bin/cmake /home/han/Desktop/Han_ws/09.ROS/my_mobile/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description
+[0.027s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.150s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.169s] Traceback (most recent call last):
+[0.169s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 22, in <module>
+[0.169s]     from catkin_pkg.package import parse_package_string
+[0.169s] ModuleNotFoundError: No module named 'catkin_pkg'
+[0.172s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.172s]   execute_process(/home/han/venv/myvenv/bin/python3
+[0.172s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.172s]   /home/han/Desktop/Han_ws/09.ROS/my_mobile/src/my_robot_description/package.xml
+[0.172s]   /home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_description/ament_cmake_core/package.cmake)
+[0.172s]   returned error code 1
+[0.172s] Call Stack (most recent call first):
+[0.172s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.172s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.172s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.172s] 
+[0.172s] [0m
+[0.172s] -- Configuring incomplete, errors occurred!
+[0.173s] See also "/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_description/CMakeFiles/CMakeOutput.log".
+[0.175s] Invoked command in '/home/han/Desktop/Han_ws/09.ROS/my_mobile/build/my_robot_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/han/Desktop/Han_ws/09.ROS/ROS_tutorial/install/my_first_package:/opt/ros/humble /usr/bin/cmake /home/han/Desktop/Han_ws/09.ROS/my_mobile/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/han/Desktop/Han_ws/09.ROS/my_mobile/install/my_robot_description

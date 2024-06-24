@@ -1,0 +1,9 @@
+[console_scripts]
+canny_edge = opencv_tutorials.canny_edge:main
+cartoon = opencv_tutorials.cartoon:main
+edge = opencv_tutorials.edge:main
+img_control = opencv_tutorials.img_control:main
+img_publisher = opencv_tutorials.img_publisher:main
+laplace = opencv_tutorials.laplace:main
+optical_flow = opencv_tutorials.optical_flow:main
+
