@@ -1,4 +1,0 @@
-[31mCMake Error at CMakeLists.txt:26 (install):
-  install DIRECTORY given no DESTINATION!
-
-[0m

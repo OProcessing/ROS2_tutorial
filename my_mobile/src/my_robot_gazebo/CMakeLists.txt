@@ -24,8 +24,8 @@ if(BUILD_TESTING)
 endif()
 
 install(
-  DIRECTORY launch config
+  DIRECTORY launch config worlds models
   DESTINATION share/${PROJECT_NAME}
-)
+  )
 
 ament_package()
