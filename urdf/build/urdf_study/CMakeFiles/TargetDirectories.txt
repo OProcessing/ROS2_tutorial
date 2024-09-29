@@ -1,9 +1,0 @@
-/home/han/Desktop/Han_ws/09.ROS/urdf/build/urdf_study/CMakeFiles/uninstall.dir
-/home/han/Desktop/Han_ws/09.ROS/urdf/build/urdf_study/CMakeFiles/urdf_study_uninstall.dir
-/home/han/Desktop/Han_ws/09.ROS/urdf/build/urdf_study/CMakeFiles/test.dir
-/home/han/Desktop/Han_ws/09.ROS/urdf/build/urdf_study/CMakeFiles/edit_cache.dir
-/home/han/Desktop/Han_ws/09.ROS/urdf/build/urdf_study/CMakeFiles/rebuild_cache.dir
-/home/han/Desktop/Han_ws/09.ROS/urdf/build/urdf_study/CMakeFiles/list_install_components.dir
-/home/han/Desktop/Han_ws/09.ROS/urdf/build/urdf_study/CMakeFiles/install.dir
-/home/han/Desktop/Han_ws/09.ROS/urdf/build/urdf_study/CMakeFiles/install/local.dir
-/home/han/Desktop/Han_ws/09.ROS/urdf/build/urdf_study/CMakeFiles/install/strip.dir

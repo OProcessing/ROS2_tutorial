@@ -1,2 +1,0 @@
-Invoking command in '/home/han/Desktop/Han_ws/09.ROS/urdf_tutorial/build/urdf_study': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble VIRTUAL_ENV_PROMPT=(myvenv) /usr/bin/cmake --build /home/han/Desktop/Han_ws/09.ROS/urdf_tutorial/build/urdf_study -- -j12 -l12
-Invoked command in '/home/han/Desktop/Han_ws/09.ROS/urdf_tutorial/build/urdf_study' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble VIRTUAL_ENV_PROMPT=(myvenv) /usr/bin/cmake --build /home/han/Desktop/Han_ws/09.ROS/urdf_tutorial/build/urdf_study -- -j12 -l12

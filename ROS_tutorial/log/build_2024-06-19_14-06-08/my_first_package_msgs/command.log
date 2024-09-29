@@ -1,4 +1,0 @@
-Invoking command in '/home/han/Desktop/Han_ws/09.ROS/build/my_first_package_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/han/Desktop/Han_ws/09.ROS/build/my_first_package_msgs -- -j12 -l12
-Invoked command in '/home/han/Desktop/Han_ws/09.ROS/build/my_first_package_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/han/Desktop/Han_ws/09.ROS/build/my_first_package_msgs -- -j12 -l12
-Invoking command in '/home/han/Desktop/Han_ws/09.ROS/build/my_first_package_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/han/Desktop/Han_ws/09.ROS/build/my_first_package_msgs
-Invoked command in '/home/han/Desktop/Han_ws/09.ROS/build/my_first_package_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/han/Desktop/Han_ws/09.ROS/build/my_first_package_msgs
